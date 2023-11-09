@@ -8,4 +8,4 @@ Tryint to understand how it works with GITHUB app
 
 Now I will fix issue num one
 
-Checks #1
+Closes #1
